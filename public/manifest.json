@@ -1,0 +1,14 @@
+{
+  "name": "TokenLaunch Studio",
+  "description": "TokenLaunch Studio is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://7f89c57b-1892-449a-ae28-9a7851b07a1e.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "TokenLaunch Studio",
+      "description": "TokenLaunch Studio is a Base Mini App built with Zara.",
+      "url": "https://7f89c57b-1892-449a-ae28-9a7851b07a1e.vistara.dev",
+      "icon": "$NEXT_PUBLIC_URL/logo.png"
+    }
+  }
+}

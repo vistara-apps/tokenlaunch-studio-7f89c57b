@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TokenLaunch Studio",
+    "subtitle": "Built with Zara",
+    "description": "TokenLaunch Studio is a Base Mini App built with Zara.",
+    "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
+    "homeUrl": "https://7f89c57b-1892-449a-ae28-9a7851b07a1e.vistara.dev",
+    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "tagline": "TokenLaunch Studio",
+    "screenshotUrls": [
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "mini app",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://7f89c57b-1892-449a-ae28-9a7851b07a1e.vistara.dev/api/webhook"
+  }
+}
